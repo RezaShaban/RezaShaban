@@ -19,10 +19,10 @@ and **AI-powered products** that solve real-world problems.
 
 <div align="center">
 
-### 🇮🇷 MAUI Persian Toolkit  
-**Persian (RTL) toolkit for .NET MAUI developers**
+### MAUI Persian Toolkit  
+**RTL toolkit for .NET MAUI developers**
 
-Build Persian-friendly apps **faster**, **cleaner**, and **without pain**.
+Build RTL-friendly apps **faster**, **cleaner**, and **without pain**.
 
 👉 **Repository**  
 https://github.com/RezaShaban/MauiPersianToolkit
