@@ -1,60 +1,116 @@
-# 👋 Hi, I'm Reza 👨‍💻
 
-Backend Developer | Tech Lead | .NET Enthusiast  
-Building tools, libraries, and AI-powered solutions 🚀
+<div align="center">
 
----
+# 👋 Hey, I'm Reza Shaban
 
-## 🌟 Featured Project
-### MAUI Persian Toolkit
-An RTL toolkit for .NET MAUI developers  
-Helping build Persian-friendly apps faster and cleaner.
+### Backend Engineer | Tech Lead | .NET & AI Builder
 
-🔗 Repo:  
-👉 https://github.com/RezaShaban/MauiPersianToolkit
+I build **developer tools**, **scalable backend systems**,  
+and **AI-powered products** that solve real-world problems.
 
-⭐ If you find it useful, don’t forget to star the repo!
+💡 Clean Architecture • Rich Domain • High Performance  
+🚀 Always building, always improving
+
+</div>
 
 ---
 
-## 🗳 Community Poll – Your Opinion Matters!
+## 🔥 Highlight Project
 
-I’d love your feedback to shape the next updates 👇  
+<div align="center">
+
+### 🇮🇷 MAUI Persian Toolkit  
+**Persian (RTL) toolkit for .NET MAUI developers**
+
+Build Persian-friendly apps **faster**, **cleaner**, and **without pain**.
+
+👉 **Repository**  
+https://github.com/RezaShaban/MauiPersianToolkit
+
+⭐ *If this project helps you, please consider starring it — it really helps!*
+
+</div>
+
+---
+
+## 🗳 Community Poll – Shape the Roadmap
+
+Your opinion directly affects the future of this project 👇  
+
 **What should I focus on next?**
 
-1️⃣ More Persian UI components  
-2️⃣ Better RTL layout handling  
-3️⃣ Documentation & samples  
-4️⃣ New MAUI utilities
+- 🧩 More Persian UI components  
+- 📐 Improved RTL layout handling  
+- 📚 Better docs & real-world samples  
+- 🛠 Useful MAUI utilities
 
-👉 **Vote here:**  
-🗨 https://github.com/RezaShaban/MauiPersianToolkit/discussions
+👉 **Vote & discuss here:**  
+💬 https://github.com/RezaShaban/MauiPersianToolkit/discussions
 
-(Just select an option or leave a comment)
-
----
-
-## 🗣 Discussions & Ideas
-Have an idea, feedback, or question?
-
-💬 Join the discussion:  
-👉 https://github.com/RezaShaban/MauiPersianToolkit/discussions
-
-📌 Or open an issue if you prefer structured feedback.
+> Takes less than a minute — huge impact ❤️
 
 ---
 
-## 🚀 Other Things I Work On
-- AI-powered call analysis systems
-- Virtual Fitting Room (AI + Vision)
-- Scalable backend systems with Rich Domain Architecture
+## 🧠 Why This Project Exists
+
+Many Persian developers struggle with:
+- Poor RTL support
+- Extra hacks for Persian UI
+- Repeating the same fixes in every project
+
+🎯 **MAUI Persian Toolkit** aims to:
+- Standardize Persian UI patterns
+- Save development time
+- Improve UX for Persian-speaking users
 
 ---
 
-## 🤝 Let’s Connect
-If you like my work:
-- ⭐ Star the repositories
-- 💬 Join discussions
-- 🔁 Share with other developers
+## 🛠 Tech Stack & Interests
 
-Thanks for stopping by ❤️
+```text
+Backend        : .NET | ASP.NET Core | EF Core | PostgreSQL
+Architecture   : Clean Architecture | Rich Domain | Event-Driven
+Messaging      : RabbitMQ | NATS
+AI / ML        : Speech-to-Text | LLMs | Call Analysis | Vision
+DevOps         : Docker | Docker Compose
+````
+
+---
+
+## 🚧 Other Things I'm Building
+
+* 📞 **AI Call Analysis System**
+  Real-time speech-to-text, sentiment & operator scoring
+
+* 👕 **Virtual Fitting Room**
+  AI-powered vision-based size & fit simulation
+
+* 🧠 **LLM-powered Agents**
+  Structured analysis & decision-making systems
+
+---
+
+## 🗣 Let’s Talk
+
+Have an idea? Feedback? Feature request?
+
+* 💬 Join Discussions
+  [https://github.com/RezaShaban/MauiPersianToolkit/discussions](https://github.com/RezaShaban/MauiPersianToolkit/discussions)
+
+* 🐞 Open an Issue
+  Bugs & improvements are always welcome
+
+---
+
+<div align="center">
+
+### 🤝 Support & Connect
+
+⭐ Star the repos
+💬 Join the discussions
+🔁 Share with fellow developers
+
+**Thanks for stopping by — happy coding! ❤️**
+
+</div>
+```
